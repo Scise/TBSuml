@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T13:41:02.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="hSbS8bYppyeIHlMdklRn" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T14:06:18.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XuXoS8sBvB_k4XDSZDNp" version="14.2.5" type="github">
   <diagram id="s364JGcUKSa12-7OBkJO" name="Page-1">
     <mxGraphModel dx="-8578" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
@@ -529,37 +529,37 @@
             <mxPoint x="12470" y="1519.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-134" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-134" value="50 adet Kuş evcilleştir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-135" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-135" value="40 Adet Kedi evcilleştir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-136" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-136" value="30 Adet Köpek evcilleştir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-137" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-137" value="15 Adet At evcilleştir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-138" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-138" value="&lt;span&gt;10 Adet&amp;nbsp; Llama evcilleştir&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-139" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-139" value="8 Adet Forest/Frenzied ostard evcilleştir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-140" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-140" value="6 Adet Mid Ostard Evcilleştir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-141" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-141" value="3 Adet Mustang Evcilleştir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-142" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-142" value="3 Adet Shire Evcilleştir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-143" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-143" value="1 Adet Freshian Evcilleştir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-144" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-144" value="&lt;span&gt;1 Adet Kii-Rin Evcilleştir&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12740" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRAyvvZyPW6zGo8ZCI47-145" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
@@ -661,19 +661,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-156" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-156" value="5.000 gp&lt;br&gt;Bird Watcher title" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12950" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-157" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-157" value="10.000 gp&lt;br&gt;x title" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12950" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-158" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-158" value="20.000 gp&amp;nbsp;&lt;br&gt;y title" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12950" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-159" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-159" value="50.000 gp&lt;br&gt;Horse Whisperer title" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12950" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-160" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-160" value="75.000 gp&amp;nbsp;&lt;br&gt;Spit n Run title" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="12950" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRAyvvZyPW6zGo8ZCI47-161" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">

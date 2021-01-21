@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T14:59:45.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="A-vyEbZZ21ppTQPYS0so" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T15:01:45.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="z1aafajUZK6OnLESgFkG" version="14.2.5" type="github">
   <diagram id="s364JGcUKSa12-7OBkJO" name="Achivement Tree">
-    <mxGraphModel dx="-8578" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="-7156" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -787,10 +787,10 @@
         <mxCell id="MRAyvvZyPW6zGo8ZCI47-186" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13220" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-187" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-187" value="Craft Blackrock/Bloodrock Set" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13220" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-188" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-188" value="Fill 50 Bulk Order" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13220" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRAyvvZyPW6zGo8ZCI47-189" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
@@ -919,10 +919,10 @@
         <mxCell id="MRAyvvZyPW6zGo8ZCI47-208" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13430" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-209" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-209" value="250.000 Gold&lt;br&gt;The Rock" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13430" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRAyvvZyPW6zGo8ZCI47-210" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MRAyvvZyPW6zGo8ZCI47-210" value="400.000 gold&lt;br&gt;Master Artisan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13430" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRAyvvZyPW6zGo8ZCI47-211" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
